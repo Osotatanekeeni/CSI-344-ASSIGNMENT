@@ -1,4 +1,4 @@
-# CSI-344-ASSIGNMENT
+# CSI-344-ASSIGNMENT 1
 Introduction to Artificial Intelligence
 
 You are to implement a Machine Learning Evaluation system based on the Multiclass Perceptron
